@@ -2,7 +2,8 @@
 - 👀 I’m interested in putting my brains tu solve problems with codes
 - 🌱 I’m currently learning data structures and algorithms with cp a bit
 - 💞️ Open to talk about coding, problem solving.
-- Have knowledge in C/C++,python,MySQL
+- Have knowledge in C/C++,python,MySQL.
+- Interested in web-development, open source.
 - 📫 How to reach me dewanshipaul84@gmail.com,https://www.linkedin.com/in/dewanshi-paul-2515091b9
 
 <!---
